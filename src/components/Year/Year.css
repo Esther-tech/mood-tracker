@@ -1,0 +1,16 @@
+.MoodYear {
+  padding: 1rem;
+}
+
+.YearlyGrid {
+  display: flex;
+  justify-content: center;
+}
+
+.GridColumn {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1.5rem;
+  margin: 0.2rem;
+}
